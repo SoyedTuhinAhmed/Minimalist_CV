@@ -54,7 +54,7 @@ export const RESUME_DATA = {
   education: [
     {
       school: "Wrocław University of Technology",
-      degree: "Bachelor's Degree in Control systems engineering and Robotics",
+      degree: "Bachelor's Degree in Electrical and Electronics Engineerig",
       start: "2007",
       end: "2010",
     },
