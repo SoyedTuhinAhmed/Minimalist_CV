@@ -53,10 +53,12 @@ export const RESUME_DATA = {
   },
   education: [
     {
-      school: "Wrocław University of Technology",
+      school: "American International University (AIUB)",
       degree: "Bachelor's Degree in Electrical and Electronics Engineerig",
-      start: "2007",
-      end: "2010",
+      focus: "Computer Architecture, Embedded Systems, Elecronics",
+      grade: "Summa Cum Laude",
+      start: "2012",
+      end: "2016",
     },
   ],
   work: [
